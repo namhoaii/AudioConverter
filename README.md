@@ -1,6 +1,5 @@
 # :musical_note: Công cụ chuyển đổi video thành audio :musical_note:
 
----
 
 ## :rocket: Cách dùng
 1. Tải file .zip về giải nén và chạy file `Converter.exe` _(chạy không cần cài đặc)_.
